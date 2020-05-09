@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Code 201 Reading Notes
 
-You can use the [editor on GitHub](https://github.com/OsamaHanoun/reading-notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+this website is a Reading notes repo to hold my 201 reading notes 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
