@@ -6,7 +6,7 @@ You should start by knowing who's your audience, why they use your site, and wha
 
  HTML5 elements are a way to indicate the purpose of different parts inside a web page. The new elements provide clearer code. Older browsers that do not understand HTML5 elements need to be told which elements are block-level elements. HTML5 elements don't work in IE8.
  
- #  A Script in JS
+ # A Script in JS
 
 * A  script is a series of instructions that the computer can follow in  order to achieve a goal. 
 * Each time the script runs, it might only use a subset of all the instructions. 
