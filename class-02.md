@@ -1,4 +1,5 @@
- ## HTML Chapter 2  *(Text)*
+
+## HTML Chapter 2  *(Text)*
 
 The HTML tags we use when creating a website allow the browsers to display the appropriate structure of the page. Tags are known as markup.  Structural markup used to describe headings and paragraphs and semantic markup, used to provide additional information such as quotations, emphasis, abbreviations, etc.  These elements should not be used to affect the structure of the webpage. 
 
