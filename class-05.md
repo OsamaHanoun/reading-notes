@@ -30,6 +30,7 @@ Opacity allows us to specify the opacity of an element. RGBA allows us to specif
 When choosing a typeface, it is important to understand that the browser will usually only display it if it's installed on the user's computer. It is a good idea to add a generic font after your preferred choice. I.E. font-family: Georgia, Times, serif;
 
 ### font-size
+
 This property enables us to specify the size for the font. You can use:
   - Pixels: the default size in browswers is 16px. 
   - Percentages: a size of 200% would be 32px.
