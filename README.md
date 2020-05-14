@@ -8,7 +8,7 @@ this website is a Reading notes repo to hold my 201 reading notes
 | HTML Text, CSS Introduction, and Basic JavaScript Instructions  | [Read 2](https://osamahanoun.github.io/reading-notes/class-02) |
 | HTML Lists, CSS Boxes, JS Control Flow  | [Read 3](https://osamahanoun.github.io/reading-notes/class-03) |
 | HTML Links, CSS Layout, JS Functions |[Read 4](https://osamahanoun.github.io/reading-notes/class-04)|
-|   |[Read 5]()|
+| HTML Images; CSS Color & Text |[Read 5](https://osamahanoun.github.io/reading-notes/class-05)|
 |   |[Read 6]()|
 |   |[Read 7]()|
 |   |[Read 8]()|
