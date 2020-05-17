@@ -15,11 +15,13 @@ var hotel = {
   <dt>};
 
 
+
 #### DOT Notation
 You access the properties or methods of an oject using the dot notation. 
 > var hotelName = hotel.name;
 
 > var roomsFree = hotel.checkAvailability();
+
 
 
 ## JavaScript Chapter 5 *(Document Object Model)*
