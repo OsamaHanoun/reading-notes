@@ -14,7 +14,7 @@ var hotel = {
     checkAvailability: function() { <br>
       return this.rooms - this.booked; <br>
     } 
-  <dt>};
+  <dt>}
 </section>
 
 
