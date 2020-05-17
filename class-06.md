@@ -1,4 +1,4 @@
- ## JavaScript Chapter 3 *(Object Literals)*
+## JavaScript Chapter 3 *(Object Literals)*
 
 Objects group together a set of variables and functions to create a model of something you would recognize from the real world. In an object, variables become properties and functions become methods. 
 - Properties tell us about the object, such name, age, gender, etc. 
