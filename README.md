@@ -13,7 +13,7 @@ this website is a Reading notes repo to hold my 201 reading notes
 | HTML Tables; JS Constructor Functions |[Read 7](https://osamahanoun.github.io/reading-notes/class-07)|
 | Chapter 15 (Layout)  |[Read 8](https://osamahanoun.github.io/reading-notes/class-08)|
 | Forms and Events  |[Read 9](https://osamahanoun.github.io/reading-notes/class-09)|
-|   |[Read 10]()|
+| JS Debugging  |[Read 10](https://osamahanoun.github.io/reading-notes/class-10)|
 |   |[Read 11]()|
 |   |[Read 12]()|
 |   |[Read 13]()|
