@@ -14,7 +14,7 @@ this website is a Reading notes repo to hold my 201 reading notes
 | Chapter 15 (Layout)  |[Read 8](https://osamahanoun.github.io/reading-notes/class-08)|
 | Forms and Events  |[Read 9](https://osamahanoun.github.io/reading-notes/class-09)|
 | JS Debugging  |[Read 10](https://osamahanoun.github.io/reading-notes/class-10)|
-|   |[Read 11]()|
+| Assorted Topics |[Read 11](https://osamahanoun.github.io/reading-notes/class-11)|
 |   |[Read 12]()|
 |   |[Read 13]()|
 |   |[Read 14]()|
