@@ -21,16 +21,4 @@ Just a couple of lines of code will give you an awesome transition effect that w
 
 Here are 8 really simple effects that will add life to your UI and smiles to your users’ faces.
 
-All of these effects (bar one) are controlled with the transition property. So we can see these effects working, we’ll set up a div in an HTML page:
-
-## [6 Buttons animated](https://codepen.io/retyui/pen/ByoaXV)
-I have a hard time with annimation and stylying stuff so this is a good reference for me when working on this kind of project. 
-
-## [CSS3 Animations: Keyframes](https://codepen.io/akshaychauhan/pen/oAfae)
-I have a hard time with annimation and stylying stuff so this is a good reference for me when working on this kind of project. 
-
-## [404](https://codepen.io/kieranfivestars/pen/MYdQxX)
-I have a hard time with annimation and stylying stuff so this is a good reference for me when working on this kind of project. 
-
-## [Pure CSS Bounce Animation](https://codepen.io/dp_lewis/pen/gCfBv)
-this is cool. I like playing a game called Ballz... might try to recreate the game using something like this
+All of these effects (bar one) are controlled with the transition property. So we can see these effects working, we’ll set up a div in an HTML page.
